@@ -1,4 +1,4 @@
-# Line Following Robot - Arduino Robot 
+# Line Following Robot - Arduino Project 
 
 ## Introduction
 
