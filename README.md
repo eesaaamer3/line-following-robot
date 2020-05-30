@@ -3,6 +3,11 @@
 ## Introduction
 
 ## Equipment 
+* 1 Arduino Uno
+* 2 DC Motors
+* 3 QTI Infrared Sensors
+* 1 Ultrasonic Sensor
+* 1 L293d Motor Driver Chip
 
 ## Circuit Diagram 
 
